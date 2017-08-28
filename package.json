@@ -1,0 +1,23 @@
+{
+  "name": "andela-tasks",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "dependencies": {},
+  "devDependencies": {
+    "chai": "^4.1.1"
+  },
+  "scripts": {
+    "test": "mocha **/*.test.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/nouwatinjacob/Andela-Tasks.git"
+  },
+  "author": "Jacob",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/nouwatinjacob/Andela-Tasks/issues"
+  },
+  "homepage": "https://github.com/nouwatinjacob/Andela-Tasks#readme"
+}
